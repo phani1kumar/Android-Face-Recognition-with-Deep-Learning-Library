@@ -1,1 +1,1 @@
-include ':facerecognitionlibrary'
+include ':facerecognitionlibrary', ':opencv'
